@@ -2,6 +2,7 @@
 layout: post
 title:  "The \"New\" Challenge"
 date:   2014-12-26 4:36:24
+tags: [newchallenge, announcement]
 ---
 It's almost the end of another year. Instead of getting nostalgic and thinking of the past, I'm taking full advantage of the time off and doing a full-reset. I'm moving in one direction - forward. How? Everything _new_.
 
@@ -14,14 +15,14 @@ However, in the spirit of adventure, I'm going. I'm going alone. I'm going for o
 While I'm out gallavanting and exploring, I decided to pursue some personal development. I'll be doing this through a set of daily challenges.
 
 Every day, I intend to:
-- Meet and have a conversation with one new person
-- Eat or drink one new thing, and review it
-- Listen to and share one new song
-- Read a new poem, short story, or book chapter
-- Take a picture of something beautiful
-- Write at least 100 words on a new topic
-- Write at least 1 line of public code
-- Complete a suggested challenge (as available)
+* Meet and have a conversation with one new person
+* Eat or drink one new thing, and review it
+* Listen to and share one new song
+* Read a new poem, short story, or book chapter
+* Take a picture of something beautiful
+* Write at least 100 words on a new topic
+* Write at least 1 line of public code
+* Complete a suggested challenge (as available)
 
 It sounds like a lot, because it is. I never was one for taking a typical "relaxing" vacation, I suppose.
 
