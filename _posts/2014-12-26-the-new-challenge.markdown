@@ -6,7 +6,7 @@ categories: newchallenge
 ---
 It's almost the end of another year. 
 
-####Challenge Me
+###Challenge Me
 Got an idea for something new I should try? New foods, new coding tools, new books, new anything? Throw your suggestions over to [Twitter][twitter] or leave them in the comments and I'll incorporate as many as I can!
 
 _Follow the journey in real-time on [Twitter][twitter]!_
