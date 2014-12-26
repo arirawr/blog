@@ -29,7 +29,7 @@ Every day, I intend to:
 It sounds like a lot, because it is. I never was one for taking a typical "relaxing" vacation, I suppose.
 
 ##The Blog
-I'll be posting my progress at some point every day on my [blog][blog]. I'll let you know, who I talked to, what I read, what I listened to, what I coded, and provide updates on each component of the challenge. There's an RSS feature somewhere, if you're into that. I've also integrated comments so you can provide words of encouragement or criticism.
+I'll be posting my progress at some point every day on my [blog][blog]. I'll let you know who I talked to, what I read, what I listened to, what I coded, and provide updates on each component of the challenge. There's an RSS feature somewhere, if you're into that. I've also integrated comments so you can provide words of encouragement or criticism.
 
 _Follow the journey in real-time on [Twitter][twitter]!_
 
