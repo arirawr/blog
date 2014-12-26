@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The "New" Challenge"
+title:  "The \"New\" Challenge"
 date:   2014-12-26 4:36:24
 categories: newchallenge
 ---
