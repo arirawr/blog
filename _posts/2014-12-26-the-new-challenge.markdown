@@ -15,7 +15,9 @@ However, in the spirit of adventure, I'm going. I'm going alone. I'm going for o
 While I'm out gallavanting and exploring, I decided to pursue some personal development. I'll be doing this through a set of daily challenges.
 
 Every day, I intend to:
-* Meet and have a conversation with one new person
+<ul>
+<li>Meet and have a conversation with one new person</li>
+</ul>
 * Eat or drink one new thing, and review it
 * Listen to and share one new song
 * Read a new poem, short story, or book chapter
