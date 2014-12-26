@@ -194,7 +194,7 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 0;
 }
 
 .post-title {
@@ -209,6 +209,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    margin-top: $spacing-unit;
 
     h2 {
         font-size: 32px;
