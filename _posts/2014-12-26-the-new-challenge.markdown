@@ -16,14 +16,14 @@ While I'm out gallavanting and exploring, I decided to pursue some personal deve
 
 Every day, I intend to:
 <ul>
-<li>Meet and have a conversation with one new person</li>
-<li>Eat or drink one new thing, and review it</li>
+Meet and have a conversation with one new person
+Eat or drink one new thing, and review it
 Listen to and share one new song
-* Read a new poem, short story, or book chapter
-* Take a picture of something beautiful
-* Write at least 100 words on a new topic
-* Write at least 1 line of public code
-* Complete a suggested challenge (as available)
+Read a new poem, short story, or book chapter
+Take a picture of something beautiful
+Write at least 100 words on a new topic
+Write at least 1 line of public code
+Complete a suggested challenge (as available)
 </ul>
 
 It sounds like a lot, because it is. I never was one for taking a typical "relaxing" vacation, I suppose.
