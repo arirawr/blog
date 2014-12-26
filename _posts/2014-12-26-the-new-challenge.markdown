@@ -17,9 +17,9 @@ While I'm out gallavanting and exploring, I decided to pursue some personal deve
 Every day, I intend to:
 <ul>
 <li>Meet and have a conversation with one new person</li>
+<li>Eat or drink one new thing, and review it</li>
+<li>Listen to and share one new song</li>
 </ul>
-* Eat or drink one new thing, and review it
-* Listen to and share one new song
 * Read a new poem, short story, or book chapter
 * Take a picture of something beautiful
 * Write at least 100 words on a new topic
