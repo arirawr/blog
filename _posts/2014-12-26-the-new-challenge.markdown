@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "The \"New\" Challenge"
-date:   2014-12-26 4:36:24
-category: newchallenge
+date:   2014-12-26 6:12:00
 ---
 It's almost the end of another year. Instead of getting nostalgic and thinking of the past, I'm taking full advantage of the time off and doing a full-reset. I'm moving in one direction - forward. How? Everything _new_.
 
