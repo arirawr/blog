@@ -13,7 +13,7 @@ I didn't eat much today, but I _did_ try something new - a Milky Way Bar. My rev
 
 ##Music
 Thanks to Spotify for powering my new music discovery today. This new Modest Mouse track comes from the playlist [New Music Friday][spotify].
-<iframe src="https://embed.spotify.com/?uri=spotify:album:0i2JrxJ2bs1kgx8KlVaQE2" width="300" height="380" frameborder="0" allowtransparency="true">&nbsp;</iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:album:0i2JrxJ2bs1kgx8KlVaQE2" width="300" height="380" frameborder="0">&nbsp;</iframe>
 
 ##Reading
 On my long subway ride from Manhattan to Brooklyn, I read the history chapter of the Letters section of the book _Thinking with Type_, which was given to me as a Hackathon Hackers Secret Santa gift. I don't think I can express how much I like fonts and how fascinated I was looking through the history of typefaces.
