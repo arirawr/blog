@@ -14,7 +14,8 @@ I didn't eat much today, but I _did_ try something new - a Milky Way Bar. My rev
 
 ##Music
 Thanks to Spotify for powering my new music discovery today. This new Modest Mouse track comes from the playlist [New Music Friday][spotify].
-{% spotify spotify:track:30J50x380IFf1P1H0DOtW4 %}
+[Lampshades On Fire][song]
+I'm working on making Spotify embeds work with my template engine for next time.
 
 ##Reading
 On my long subway ride from Manhattan to Brooklyn, I read the history chapter of the Letters section of the book _Thinking with Type_, which was given to me as a Hackathon Hackers Secret Santa gift. I don't think I can express how much I like fonts and how fascinated I was looking through the history of typefaces.
@@ -37,3 +38,4 @@ Today, I set up this blog (using Jekyll) and implemented Google Analytics, AddTh
 [writing]: http://blog.ariari.io/2014/12/26/today-i-felt-adult.html
 [github]: http://github.com/arirawr/blog.ariari.io
 [nc]: http://blog.ariari.io/2014/12/26/the-new-challenge.html
+[song]: http://open.spotify.com/track/30J50x380IFf1P1H0DOtW4
