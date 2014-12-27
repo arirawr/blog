@@ -20,7 +20,8 @@ On my long subway ride from Manhattan to Brooklyn, I read the history chapter of
 
 ##Picture
 So, I went a little touristy with this. It was my first night in NYC - give me a break.
-<a href='http://postimg.org/image/l9w3lu90l/' target='_blank'><img src='http://s2.postimg.org/l9w3lu90l/IMG_20141226_212611.jpg' border='0' alt="IMG 20141226 212611" /></a>
+
+<img src='http://s2.postimg.org/l9w3lu90l/IMG_20141226_212611.jpg' border='0' alt="IMG 20141226 212611" width="80%"/></a>
 
 ##Writing
 I wrote an [artsy blog post][writing] today about feeling grown up this morning. Be sure to give it a look [here][writing].
