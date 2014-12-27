@@ -24,6 +24,7 @@ So, I went a little touristy with this. It was my first night in NYC - give me a
 <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10155065271570691&amp;set=a.10155065270590691.1073741840.890580690&amp;type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/photo.php?fbid=10155065271570691&amp;set=a.10155065270590691.1073741840.890580690&amp;type=1">Post</a> by <a href="https://www.facebook.com/avaniderstine">Ari VanIderstine</a>.</div></div>
 
+
 ##Writing
 I wrote an [artsy blog post][writing] today about feeling grown up this morning. Be sure to give it a look [here][writing].
 
