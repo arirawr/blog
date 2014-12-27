@@ -6,7 +6,7 @@ date: 2014-12-26 23:30:00
 
 _Part of the [New Challenge][nc]_
 
--> Today: all-nighter, early morning blog-building, hurried packing, 7 hour car ride, 1 hour border wait, epic playlist in car, subway adventures, Subway (the food) adventures, walk across the Brooklyn Bridge. <-
+######Today: all-nighter, early morning blog-building, hurried packing, 7 hour car ride, 1 hour border wait, epic playlist in car, subway adventures, Subway (the food) adventures, walk across the Brooklyn Bridge.
 
 ##Person
 Today's new person was Rakesh, a graduate student and Hackathon Hacker. He helped me to find a place to stay and made sure I got food, then we went on an adventure across the Brooklyn Bridge. We had a great discussion about differences in education between India and North America, and the idea of gap years.
@@ -37,7 +37,7 @@ I wrote an [artsy blog post][writing] today about feeling grown up this morning.
 ##Code
 Today, I set up this blog (using Jekyll) and implemented Google Analytics, AddThis social sharing, and Disqus commenting. Sure, not the most unique work I've done, but it was 5am and I did manage to get them all working together. You can find the code for this blog in its [github repository][github].
 
-Tomorrow: Manhattan, jazz, meetup, Hackathon Hackers.
+######Tomorrow: Manhattan, jazz, meetup, Hackathon Hackers.
 
 
 [spotify]: http://open.spotify.com/user/spotify_germany/playlist/4HdOsN3i6umE8rN1y75NBi
