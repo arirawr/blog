@@ -7,6 +7,7 @@ date: 2014-12-26 23:30:00
 _Part of the [New Challenge][nc]_
 
 ##Person
+Today's new person was Rakesh, a graduate student and Hackathon Hacker. He helped me to find a place to stay and made sure I got food, then we went on an adventure across the Brooklyn Bridge. We had a great discussion about differences in education between India and North America, and the idea of gap years.
 
 ##Food/Drink
 I didn't eat much today, but I _did_ try something new - a Milky Way Bar. My review? It's basically the same thing as a Mars Bar. Why do they both exist?
