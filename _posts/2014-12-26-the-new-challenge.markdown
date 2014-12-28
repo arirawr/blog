@@ -35,5 +35,13 @@ _Follow the journey in real-time on [Twitter][twitter]!_
 ##Challenge Me!
 Got an idea for something new I should try? New foods, new coding tools, new books, new anything? Throw your suggestions over to [Twitter][twitter] or leave them in the comments and I'll incorporate as many as I can!
 
+##Updates
+<ul>
+<li>[Day 1][1]</li>
+<li>[Day 2][2]</li>
+</ul>
+
 [twitter]: http://twitter.com/arielle_van
 [blog]: http://blog.ariari.io
+[1]: http://blog.ariari.io/2014/12/26/newchallenge-1.html
+[2]: http://blog.ariari.io/2014/12/26/newchallenge-2.html

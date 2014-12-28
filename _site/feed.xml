@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.ariari.io/</link>
     <atom:link href="http://blog.ariari.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Dec 2014 12:32:53 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2014 12:32:53 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Dec 2014 13:51:45 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2014 13:51:45 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -264,6 +264,12 @@
 
 &lt;h2 id=&quot;challenge-me&quot;&gt;Challenge Me!&lt;/h2&gt;
 &lt;p&gt;Got an idea for something new I should try? New foods, new coding tools, new books, new anything? Throw your suggestions over to &lt;a href=&quot;http://twitter.com/arielle_van&quot;&gt;Twitter&lt;/a&gt; or leave them in the comments and I’ll incorporate as many as I can!&lt;/p&gt;
+
+&lt;h2 id=&quot;updates&quot;&gt;Updates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[Day 1][1]&lt;/li&gt;
+&lt;li&gt;[Day 2][2]&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Fri, 26 Dec 2014 01:12:00 -0500</pubDate>
