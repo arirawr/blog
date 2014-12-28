@@ -21,8 +21,6 @@ Thanks to Spotify for powering my new music discovery today. This new Modest Mou
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:30J50x380IFf1P1H0DOtW4" width="90%" height="100" frameborder="0" allowtransparency="true"></iframe>
 
-I'm working on making Spotify embeds work with my template engine for next time.
-
 ##Reading
 On my long subway ride from Manhattan to Brooklyn, I read the history chapter of the Letters section of the book _Thinking with Type_, which was given to me as a Hackathon Hackers Secret Santa gift. I don't think I can express how much I like fonts and how fascinated I was looking through the history of typefaces.
 

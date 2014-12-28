@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.ariari.io/</link>
     <atom:link href="http://blog.ariari.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Dec 2014 15:26:14 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2014 15:26:14 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Dec 2014 15:28:48 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2014 15:28:48 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -145,8 +145,6 @@
 &lt;p&gt;&lt;a href=&quot;http://open.spotify.com/track/30J50x380IFf1P1H0DOtW4&quot;&gt;Lampshades On Fire&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:30J50x380IFf1P1H0DOtW4&quot; width=&quot;90%&quot; height=&quot;100&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;I’m working on making Spotify embeds work with my template engine for next time.&lt;/p&gt;
 
 &lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
 &lt;p&gt;On my long subway ride from Manhattan to Brooklyn, I read the history chapter of the Letters section of the book &lt;em&gt;Thinking with Type&lt;/em&gt;, which was given to me as a Hackathon Hackers Secret Santa gift. I don’t think I can express how much I like fonts and how fascinated I was looking through the history of typefaces.&lt;/p&gt;
