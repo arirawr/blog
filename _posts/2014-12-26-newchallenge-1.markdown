@@ -19,6 +19,8 @@ Thanks to Spotify for powering my new music discovery today. This new Modest Mou
 
 [Lampshades On Fire][song]
 
+<iframe src="https://embed.spotify.com/?uri=spotify:track:30J50x380IFf1P1H0DOtW4" width="90%" height="100" frameborder="0" allowtransparency="true"></iframe>
+
 I'm working on making Spotify embeds work with my template engine for next time.
 
 ##Reading

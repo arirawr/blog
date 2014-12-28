@@ -19,7 +19,7 @@ Today's song comes from the [electro-swing playlist][playlist] I was listening t
 
 [Swing Mood (Castaman Edit Mix)][song]
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:3qXTeoeWgnRt1eEUhIwC28" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:2RXY1pNGq9CVtStTLgliSa" width="90%" height="100" frameborder="0" allowtransparency="true"></iframe>
 
 Anyone know of any cool electroswing clubs in NYC? I know it's big in Montreal - some of my best nights out have been swinging.
 

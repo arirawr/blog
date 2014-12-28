@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.ariari.io/</link>
     <atom:link href="http://blog.ariari.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Dec 2014 15:21:20 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2014 15:21:20 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Dec 2014 15:26:14 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2014 15:26:14 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -62,7 +62,7 @@
 
 &lt;p&gt;&lt;a href=&quot;http://open.spotify.com/track/2RXY1pNGq9CVtStTLgliSa&quot;&gt;Swing Mood (Castaman Edit Mix)&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:3qXTeoeWgnRt1eEUhIwC28&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:2RXY1pNGq9CVtStTLgliSa&quot; width=&quot;90%&quot; height=&quot;100&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Anyone know of any cool electroswing clubs in NYC? I know it’s big in Montreal - some of my best nights out have been swinging.&lt;/p&gt;
 
@@ -143,6 +143,8 @@
 &lt;p&gt;Thanks to Spotify for powering my new music discovery today. This new Modest Mouse track comes from the playlist &lt;a href=&quot;http://open.spotify.com/user/spotify_germany/playlist/4HdOsN3i6umE8rN1y75NBi&quot;&gt;New Music Friday&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://open.spotify.com/track/30J50x380IFf1P1H0DOtW4&quot;&gt;Lampshades On Fire&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:30J50x380IFf1P1H0DOtW4&quot; width=&quot;90%&quot; height=&quot;100&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;I’m working on making Spotify embeds work with my template engine for next time.&lt;/p&gt;
 
