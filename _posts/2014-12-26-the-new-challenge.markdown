@@ -36,10 +36,8 @@ _Follow the journey in real-time on [Twitter][twitter]!_
 Got an idea for something new I should try? New foods, new coding tools, new books, new anything? Throw your suggestions over to [Twitter][twitter] or leave them in the comments and I'll incorporate as many as I can!
 
 ##Updates
-<ul>
-<li>[Day 1][1]</li>
-<li>[Day 2][2]</li>
-</ul>
+[Day 1][1]     
+[Day 2][2]    
 
 [twitter]: http://twitter.com/arielle_van
 [blog]: http://blog.ariari.io
