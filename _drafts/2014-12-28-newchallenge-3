@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "#NewChallenge Day X"
-date: 2014-12-26 23:30:00
+title: "#NewChallenge Day 3"
+date: 2014-12-28 23:30:00
 ---
 
 _Part of the [New Challenge][nc]_
 
-######_Today:_
+######_Today:_ coffee,
 
 ##Person
 
