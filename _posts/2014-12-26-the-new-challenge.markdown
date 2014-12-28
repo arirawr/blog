@@ -42,4 +42,4 @@ Got an idea for something new I should try? New foods, new coding tools, new boo
 [twitter]: http://twitter.com/arielle_van
 [blog]: http://blog.ariari.io
 [1]: http://blog.ariari.io/2014/12/26/newchallenge-1.html
-[2]: http://blog.ariari.io/2014/12/26/newchallenge-2.html
+[2]: http://blog.ariari.io/2014/12/27/newchallenge-2.html
