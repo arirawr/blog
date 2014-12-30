@@ -9,7 +9,7 @@ _Part of the [New Challenge][nc]_
 ######_Today:_ coffee, big breakfast, trying to stay away from people, coworking space, $1 pizza, wild crowdedness, ritzy commercialism, the quest for Starbucks, sore muscles, financial district aimless wandering, high-class accommodations, tinder
 
 ##Person
-This evening, I'm staying with the bright, young Jason, another Hackathon Hacker, who I learned dropped out of high school to work on his real estate startup. In his financial distract apartment, I got to see him work (an allnighter) with 2 monitors and 5 windows open. This kid is going places.
+This evening, I'm staying with the bright, young Jason, another Hackathon Hacker, who I learned dropped out of high school to work on his real estate startup. In his financial district apartment, I got to see him work (an allnighter) with 2 monitors and 5 windows open. This kid is going places.
 
 ##Food/Drink
 Spending the afternoon walking around in Manhattan makes you hungry. Nothing quite fills the void like $1 pizza - a New York City staple. It was surprisingly delicious, and left me satisfied for quite a while. I can't even imagine how good it would taste when drunk.

@@ -6,7 +6,7 @@ date: 2014-12-29 23:30:00
 
 _Part of the [New Challenge][nc]_
 
-######_Today:_ AlleyNYC, almond milk and hipster coffee, MLH, thai, the Met, selfies and imitations, black coffee, areba, coffee rum, Saskatchewan
+######_Today:_ AlleyNYC, almond milk and hipster coffee, MLH, thai, the Met, selfies and imitations, black coffee, arepas, coffee rum, Saskatchewan, 1am delivery pizza
 
 ##Person
 Oh man, I met a lot of people today.
@@ -18,9 +18,11 @@ After that, I went on an adventure with two hackathon hackers: Ifeanyi and Saman
 ##Food/Drink
 Lunch in midtown is always an adventure, but it's even better with MLH! I got to try some Thai food; I had Pad Kana (broccoli, kale, and tofu in a ginger sauce over rice) and Papaya salad. Both were delicious, even if my mouth was burning a little from the spice.
 
-Later, I tried areba. Also delicious.
+Later, I tried arepas (mine had cheese, plantain, and avocado). Also delicious.
 
 I finished off the night with coffee rum - possibly one of the best things ever. Apparently it's only available in Portland, so I'll definitely be grabbing some while in Seattle.
+
+I lied, that wasn't the end of the night. I conquered a pizza at 1am. Even crappy New York pizza is delicious.
 
 ##Music
 Courtesy of the lovely Daniel, some pump-up office music:

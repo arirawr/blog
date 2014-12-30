@@ -6,7 +6,7 @@ date: 2014-12-30 23:30:00
 
 _Part of the [New Challenge][nc]_
 
-######_Today:_ AlleyNYC, almond milk and hipster coffee,
+######_Today:_ sleeping in
 
 ##Person
 
