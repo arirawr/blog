@@ -8,14 +8,14 @@ _Part of the [New Challenge][nc]_
 
 ######_Yesterday:_ big-ass bagels, freelance, quest for ramen, weird mixed accents, cold parks, MEETUP, malls and loitering, subgrouping, Chinese food, freaky fish, cute tea house, whisky, Frozen
 
-######_Today:_ sleeping in, brunch, tumblr tour, walking, best damn pizza in the whole wide world, food coma
+######_Today:_ sleeping in, brunch, Tumblr tour, walking, best damn pizza in the whole wide world, food coma
 
 ##Person
 On New Year's Eve, I hosted a Hackathon Hackers meetup, where I got to meet about 30 new people! It was really awesome putting real faces to the Facebook profiles I had interacted with. 
 
 I was hosted by Luke, who is visiting New York from California!
 
-My first new person of 2015 was Mike from tumblr, who took Luke and I on a tour of the offices. Cool offices, cool people, in-depth tech discussions.
+My first new person of 2015 was Mike from Tumblr, who took Luke and I on a tour of the offices. Cool offices, cool people, in-depth tech discussions.
 
 ##Food/Drink
 We got Chinese food, and this happened:
