@@ -2,11 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Monofett);
 
 
 // Our variables
-$base-font-family: "Monofett", "Muli", Helvetica, Arial, sans-serif;
+$base-font-family: "Muli", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
