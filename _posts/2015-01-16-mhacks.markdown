@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ari@MHacks 2015
+title: Ari@MHacks 2015 LIVEBLOG
 permalink: /mhacks/
 ---
 
