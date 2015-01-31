@@ -14,20 +14,11 @@
 
     <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="http://blog.ariari.io/2014/12/27/newchallenge-2.html">
+
+    <script src="/js/jquery-2.1.0.min.js"/>
     
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-549d351b777d443a" async="async"></script>
-
-        <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-      ga('create', 'UA-57985359-1', 'auto');
-      ga('send', 'pageview');
-      ga(‘set’, ‘&uid’, ); // Set the user ID using signed-in user_id.
-    </script>
     
 </head>
 
@@ -87,6 +78,23 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
+
+<div id="feature-image" style="background-image:url()"></div>
+<div id="img-wrapper"></div>
+
+<script type="text/javascript">
+
+  $(function() {
+    var $featureimage = $('#feature-image');
+    var $imgwrapper = $('#img-wrapper');
+    var $window = $(window).on('resize', 
+    function(){
+      var height = $featureimage.height();
+      $imgwrapper.height(height);
+    }).trigger('resize');
+  });
+
+</script>
 
   <header class="post-header">
     <h1 class="post-title">Walking Manhattan: #NewChallenge Day 2</h1>

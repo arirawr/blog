@@ -207,6 +207,20 @@
     }
 }
 
+#feature-image {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    height: 20vw;
+    margin: 0;
+    padding: 0;
+}
+
+#img-wrapper {
+    margin-bottom: 50px;
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
     margin-top: $spacing-unit;

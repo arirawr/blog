@@ -31,7 +31,7 @@ ul, ol, dl, figure,
 /**
  * Images
  */
-img {
+article img {
   max-width: 100%;
   vertical-align: middle; }
 
@@ -300,6 +300,18 @@ h6 {
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
+
+#feature-image {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  height: 20vw;
+  margin: 0;
+  padding: 0; }
+
+#img-wrapper {
+  margin-bottom: 50px; }
 
 .post-content {
   margin-bottom: 30px;
