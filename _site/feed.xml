@@ -6,9 +6,20 @@
 </description>
     <link>http://blog.ariari.io/</link>
     <atom:link href="http://blog.ariari.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 30 Jan 2015 20:41:13 -0500</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2015 20:41:13 -0500</lastBuildDate>
+    <pubDate>Sun, 01 Feb 2015 16:24:23 -0500</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2015 16:24:23 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Test Default Images</title>
+        <description>
+</description>
+        <pubDate>Fri, 30 Jan 2015 15:50:00 -0500</pubDate>
+        <link>http://blog.ariari.io/2015/01/30/2015-1-30-test-default.html</link>
+        <guid isPermaLink="true">http://blog.ariari.io/2015/01/30/2015-1-30-test-default.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Testing Feature Images</title>
@@ -457,41 +468,6 @@ lb24.src = &#39;//v.24liveblog.com/embed/24.js?id=1282247&#39;;
         <pubDate>Fri, 26 Dec 2014 18:30:00 -0500</pubDate>
         <link>http://blog.ariari.io/2014/12/26/newchallenge-1.html</link>
         <guid isPermaLink="true">http://blog.ariari.io/2014/12/26/newchallenge-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>#NewChallenge Day X</title>
-        <description>&lt;p&gt;&lt;em&gt;Part of the &lt;a href=&quot;http://blog.ariari.io/2014/12/26/the-new-challenge.html&quot;&gt;New Challenge&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;today&quot;&gt;&lt;em&gt;Today:&lt;/em&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;person&quot;&gt;Person&lt;/h2&gt;
-
-&lt;h2 id=&quot;fooddrink&quot;&gt;Food/Drink&lt;/h2&gt;
-
-&lt;h2 id=&quot;music&quot;&gt;Music&lt;/h2&gt;
-
-&lt;p&gt;[Song Title][song]&lt;/p&gt;
-
-&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
-
-&lt;h2 id=&quot;picture&quot;&gt;Picture&lt;/h2&gt;
-
-&lt;h2 id=&quot;writing&quot;&gt;Writing&lt;/h2&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;h6 id=&quot;tomorrow&quot;&gt;&lt;em&gt;Tomorrow:&lt;/em&gt;&lt;/h6&gt;
-
-&lt;p&gt;[song]:
-[playlist]:
-[writing]: &lt;/p&gt;
-</description>
-        <pubDate>Fri, 26 Dec 2014 18:30:00 -0500</pubDate>
-        <link>http://blog.ariari.io/2014/12/26/NC-TEMPLATE.html</link>
-        <guid isPermaLink="true">http://blog.ariari.io/2014/12/26/NC-TEMPLATE.html</guid>
         
         
       </item>
