@@ -5,6 +5,7 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    color: $grey-color-dark;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -34,7 +35,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $grey-color-dark;;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -97,6 +98,7 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background-color: white;
+    color: $grey-color-dark;
 }
 
 .footer-heading {
@@ -170,6 +172,9 @@
 
 .page-heading {
     font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: $grey-color-dark;
 }
 
 .post-list {
@@ -179,6 +184,10 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+}
+
+.rss-subscribe {
+    color: $grey-color-dark;
 }
 
 .post-meta {
