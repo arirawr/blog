@@ -2,15 +2,15 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 8px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    color: $grey-color-dark;
+    color: #eee;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 
-    background-color: white;
+    background-color: #222;
 }
 
 .site-title {
@@ -19,6 +19,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: #eee;
 
     &,
     &:visited {
