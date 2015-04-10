@@ -6,9 +6,27 @@
 </description>
     <link>http://blog.ariari.io/</link>
     <atom:link href="http://blog.ariari.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Feb 2015 21:10:33 -0500</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2015 21:10:33 -0500</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2015 12:43:54 -0400</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2015 12:43:54 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Ari@Bitcamp 2015 LIVEBLOG</title>
+        <description>&lt;div id=&quot;24lb_thread&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+var lb24 = document.createElement(&#39;script&#39;); lb24.type = &#39;text/javascript&#39;; lb24.id = &#39;24lbScript&#39;; lb24.async = true; lb24.charset=&quot;utf-8&quot;;
+lb24.src = &#39;//v.24liveblog.com/embed/24.js?id=1289372&#39;;
+(document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(lb24);})();
+&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 09 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://blog.ariari.io/bitcamp/</link>
+        <guid isPermaLink="true">http://blog.ariari.io/bitcamp/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Test Default Images</title>
@@ -421,53 +439,6 @@ lb24.src = &#39;//v.24liveblog.com/embed/24.js?id=1282247&#39;;
         <pubDate>Sat, 27 Dec 2014 18:30:00 -0500</pubDate>
         <link>http://blog.ariari.io/2014/12/27/newchallenge-2.html</link>
         <guid isPermaLink="true">http://blog.ariari.io/2014/12/27/newchallenge-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Brooklyn Beginnings: #NewChallenge Day 1</title>
-        <description>&lt;p&gt;&lt;em&gt;Part of the &lt;a href=&quot;http://blog.ariari.io/2014/12/26/the-new-challenge.html&quot;&gt;New Challenge&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;today-all-nighter-early-morning-blog-building-hurried-packing-7-hour-car-ride-1-hour-border-wait-epic-playlist-in-car-subway-adventures-subway-the-food-adventures-walk-across-the-brooklyn-bridge&quot;&gt;&lt;em&gt;Today:&lt;/em&gt; All-nighter, early morning blog-building, hurried packing, 7 hour car ride, 1 hour border wait, epic playlist in car, subway adventures, Subway (the food) adventures, walk across the Brooklyn Bridge&lt;/h6&gt;
-
-&lt;h2 id=&quot;person&quot;&gt;Person&lt;/h2&gt;
-&lt;p&gt;Today’s new person was Rakesh, a graduate student and Hackathon Hacker. He helped me to find a place to stay and made sure I got food, then we went on an adventure across the Brooklyn Bridge. We had a great discussion about differences in education between India and North America, and the idea of gap years.&lt;/p&gt;
-
-&lt;h2 id=&quot;fooddrink&quot;&gt;Food/Drink&lt;/h2&gt;
-&lt;p&gt;I didn’t eat much today, but I &lt;em&gt;did&lt;/em&gt; try something new - a Milky Way Bar. My review? It’s basically the same thing as a Mars Bar. Why do they both exist?&lt;/p&gt;
-
-&lt;h2 id=&quot;music&quot;&gt;Music&lt;/h2&gt;
-&lt;p&gt;Thanks to Spotify for powering my new music discovery today. This new Modest Mouse track comes from the playlist &lt;a href=&quot;http://open.spotify.com/user/spotify_germany/playlist/4HdOsN3i6umE8rN1y75NBi&quot;&gt;New Music Friday&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://open.spotify.com/track/30J50x380IFf1P1H0DOtW4&quot;&gt;Lampshades On Fire&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:track:30J50x380IFf1P1H0DOtW4&quot; width=&quot;90%&quot; height=&quot;100&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
-&lt;p&gt;On my long subway ride from Manhattan to Brooklyn, I read the history chapter of the Letters section of the book &lt;em&gt;Thinking with Type&lt;/em&gt;, which was given to me as a Hackathon Hackers Secret Santa gift. I don’t think I can express how much I like fonts and how fascinated I was looking through the history of typefaces.&lt;/p&gt;
-
-&lt;h2 id=&quot;picture&quot;&gt;Picture&lt;/h2&gt;
-&lt;p&gt;So, I went a little touristy with this. It was my first night in NYC - give me a break. I’m convinced that the new World Trade Center is the prettiest building in the skyline now (it’s certainly the brightest) and I’ll definitely be making a point to go see it up close next week.&lt;/p&gt;
-
-&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
-&lt;script&gt;(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = &quot;//connect.facebook.net/en_GB/all.js#xfbml=1&quot;; fjs.parentNode.insertBefore(js, fjs); }(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
-
-&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/photo.php?fbid=10155065271570691&amp;amp;set=a.10155065270590691.1073741840.890580690&amp;amp;type=1&quot; data-width=&quot;466&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10155065271570691&amp;amp;set=a.10155065270590691.1073741840.890580690&amp;amp;type=1&quot;&gt;Post&lt;/a&gt; by &lt;a href=&quot;https://www.facebook.com/avaniderstine&quot;&gt;Ari VanIderstine&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;writing&quot;&gt;Writing&lt;/h2&gt;
-&lt;p&gt;I wrote an &lt;a href=&quot;http://blog.ariari.io/2014/12/26/today-i-felt-adult.html&quot;&gt;artsy blog post&lt;/a&gt; today about feeling grown up this morning. Be sure to give it a look &lt;a href=&quot;http://blog.ariari.io/2014/12/26/today-i-felt-adult.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-&lt;p&gt;Today, I set up this blog (using Jekyll) and implemented Google Analytics, AddThis social sharing, and Disqus commenting. Sure, not the most unique work I’ve done, but it was 5am and I did manage to get them all working together. You can find the code for this blog in its &lt;a href=&quot;http://github.com/arirawr/blog.ariari.io&quot;&gt;github repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h6 id=&quot;tomorrow-manhattan-jazz-meetup-hackathon-hackers&quot;&gt;&lt;em&gt;Tomorrow:&lt;/em&gt; Manhattan, jazz, meetup, Hackathon Hackers&lt;/h6&gt;
-
-</description>
-        <pubDate>Fri, 26 Dec 2014 18:30:00 -0500</pubDate>
-        <link>http://blog.ariari.io/2014/12/26/newchallenge-1.html</link>
-        <guid isPermaLink="true">http://blog.ariari.io/2014/12/26/newchallenge-1.html</guid>
         
         
       </item>
