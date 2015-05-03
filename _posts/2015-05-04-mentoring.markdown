@@ -24,7 +24,7 @@ Let's make constant mentorship the default.
 ##Free Mentorship
 If you want to try this mentorship thing, but aren't sure where to start, I've opened up several free mentorship sessions just for hackers. You can book them [here][hackerchat]. The permanent link is [http://ari.li/HackerChat][hackerchat]. I'd love to talk to you about anything, but I'm most useful for people wanting to learn front-end web (HTML/CSS/JS) the right way, looking to get into self-employment, thinking about dropping out, or seeking the internet's best hedgehog photos.
 
-My original sessions (HackerChat beta, if you will) were inspired by my good friend Dave Fontenot's [http://bit.ly/chatwithdave][http://bit.ly/chatwithdave], where he will also talk to you about anything!
+My original sessions (HackerChat beta, if you will) were inspired by my good friend Dave Fontenot's [http://bit.ly/chatwithdave](http://bit.ly/chatwithdave), where he will also talk to you about anything!
 
 Hackers - take some time and teach your favourite technology, tell a story about a cool event or your first job, or give some candid feedback. You don't need to be an expert - just be open!
 
