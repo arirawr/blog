@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mentoring and Hacker Culture: Announcing Free Mentoring for Hackers!"
-date: 2015-05-03 13:30:00
+title: "Mentoring Beyond Hackathons: Announcing Free Mentoring for Hackers!"
+date: 2015-05-03 14:30:00
 permalink: /mentoring/
 ---
 
@@ -12,7 +12,14 @@ In the past year, I've become entirely immersed in tech. I went from learning wh
 ##Mentorship is changing.
 Mentorship in the age of the hackathon is less formal. It's subconscious. It's perpetual.
 
-Building a network of people with diverse skills and interests is now more important than trying to pair with a single guide. 
+Building a network of people with diverse skills and interests is now more important than trying to pair with a single guide. The hackathon community is comprised entirely of talented people who are constantly growing and learning. It's time that we take advantage of that and embrace mentorship as a part of our community culture.
+
+##Mentorship Culture
+Let's make constant mentorship the default. 
+
+1. Always be learning.
+2. Ask for help often.
+3. Share the things you've learned.
 
 _When I don't write on this blog, I write on [Medium][medium]_
 
