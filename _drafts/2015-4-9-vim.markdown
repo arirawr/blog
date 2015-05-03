@@ -11,5 +11,9 @@ Why, you ask, would I do such a thing?
 
 Well, other than making me look like a 1337 hax0r on the train by using a colourful terminal, I also seem to have found myself in the world of servers, ssh, and in-terminal editing. If you haven't yet experienced the torture of being torn away from every command you thought you knew, I've compiled a list of the harsh realizations you'll come to within your first hour.
 
+##1. Your mouse/trackpad is 100% useless.
+
+Oh, you want to click on things to select them? That's cute.
+
 
 
