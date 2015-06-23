@@ -18,7 +18,7 @@ body {
   color: $text-color;
   font-family: $font-family-main;
   font-size: $font-size;
-  word-wrap: break-word;
+  word-wrap: normal;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
@@ -29,16 +29,24 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 h1 {
-  font-size: 2.5em;
+  font-size: 2.3em;
 }
 h2 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 h4 {
   font-size: 1.15em;
+}
+@media (max-width: 580px) {
+  h1 {
+    font-size: 1.4em;
+  }
+  h2 {
+    font-size: 1.1em;
+  }
 }
 blockquote {
     border-left: 2px solid;
