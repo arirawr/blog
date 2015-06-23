@@ -31,7 +31,7 @@ theme:
   twitter: "imariari"
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-64453343-1" # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: "blogariariio"
   katex: false # Enable if using math markup
 
