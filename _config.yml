@@ -52,7 +52,7 @@ theme:
 
 # PAGINATION
 paginate: 5
-paginate_path: "/num"
+paginate_path: "/:num"
 
 # BUILD SETTINGS
 markdown: kramdown
