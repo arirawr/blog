@@ -11,7 +11,7 @@ github_username:  arirawr
 # THEME-SPECIFIC CONFIGURATION
 theme:
   title: Ari Blogs
-  avatar: favicon.ico
+  avatar: avatar.png
   # Header and footer text
   header_text: >
      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
