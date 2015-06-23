@@ -51,7 +51,7 @@ theme:
   post_navigation: true
 
 # PAGINATION
-paginate: 5
+paginate: 0
 paginate_path: "/:num"
 
 # BUILD SETTINGS
