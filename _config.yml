@@ -10,7 +10,7 @@ github_username:  arirawr
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
-
+  title: Ari Blogs
   # Header and footer text
   header_text: >
      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -21,26 +21,13 @@ theme:
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://github.com/arirawr/blog.ariari.io">this Github repo</a>
 
   # Icons
-  rss: false
-  email_address: hello@ariari.io # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
+  rss: true
+  email_address: "hello@ariari.io" # Full email address, e.g. "sam@example.com"
+  facebook: "avaniderstine"
   github: "arirawr"
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
+  instagram: "itsariari"
+  linkedin: "http://linkedin.com/in/ariari"
   twitter: "imariari"
-  wordpress:
-  youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
