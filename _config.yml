@@ -14,9 +14,9 @@ theme:
   avatar: avatar.png
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>My name is <strong>Ari</strong>. I'm a tech evangelist and consultant. I get really passionate about startups, hackathons, marketing, community, web development, and hedgehogs.</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Check out the links above to find me elsewhere on the web.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://github.com/arirawr/blog.ariari.io">this Github repo</a>
