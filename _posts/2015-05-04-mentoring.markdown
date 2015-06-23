@@ -3,7 +3,7 @@ layout: post
 title: "#MentorCulture: Mentoring Beyond Hackathons"
 date: 2015-05-03 14:30:00
 permalink: /mentoring/
-excerpt: "In the past year, I've become entirely immersed in tech. I went from learning what the heck a modulus was to getting flown to events and talking to dozens of people a day. I'm not an exceptional person by any means. I'm a product of an amazing culture of perpetual mentorship."
+excerpt: "Mentorship is changing. Mentorship in the age of the hackathon is less formal. It's subconscious. It's perpetual."
 ---
 
 _Hackers, book a mentoring session [here][hackerchat]_
