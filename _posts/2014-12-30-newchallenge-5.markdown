@@ -2,6 +2,7 @@
 layout: post
 title: "Lazy Lounging: #NewChallenge Day 5"
 date: 2014-12-30 23:30:00
+excerpt: "Sleeping in, lounging, lounging, freelance, lounging, fattening food, lounging, movies, Mexican food. Today's recap of The New Challenge."
 ---
 
 _Part of the [New Challenge][nc]_

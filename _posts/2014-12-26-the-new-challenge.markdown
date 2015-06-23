@@ -2,6 +2,7 @@
 layout: post
 title:  "The \"New\" Challenge"
 date:   2014-12-26 6:12:00
+excerpt: "Today, I'm leaving for New York City. While I'm out gallavanting and exploring, I decided to pursue some personal development. I'll be doing this through a set of daily challenges."
 ---
 It's almost the end of another year. Instead of getting nostalgic and thinking of the past, I'm taking full advantage of the time off and doing a full-reset. I'm moving in one direction - forward. How? Everything _new_.
 

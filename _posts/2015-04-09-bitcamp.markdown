@@ -2,8 +2,7 @@
 layout: post
 title: Ari@Bitcamp 2015 LIVEBLOG
 permalink: /bitcamp/
-subtitle: "A first-hand look at Bitcamp 2015"
-excerpt: "Follow hackers at Bitcamp 2015 at the University of Maryland"
+excerpt: "Following the antics of hackers throughout Bitcamp 2015 at the University of Maryland"
 ---
 
 <div id="24lb_thread"></div>

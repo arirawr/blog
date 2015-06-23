@@ -2,6 +2,7 @@
 layout: post
 title: "Walking Manhattan: #NewChallenge Day 2"
 date: 2014-12-27 23:30:00
+excerpt: "Starbucks, Grand Central, Shake Shack, new friends, parks, lots of walking, nice views, Google maps failures, nice dinner, drunkeness. Today's recap of The New Challenge."
 ---
 
 _Part of the [New Challenge][nc]_

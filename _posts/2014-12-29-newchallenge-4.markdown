@@ -2,6 +2,7 @@
 layout: post
 title: "All the New People: #NewChallenge Day 4"
 date: 2014-12-29 23:30:00
+excerpt: "AlleyNYC, almond milk and hipster coffee, MLH, thai, the Met, selfies and imitations, black coffee, arepas, coffee rum, Saskatchewan, 1am delivery pizza. Today's recap of The New Challenge."
 ---
 
 _Part of the [New Challenge][nc]_

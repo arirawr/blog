@@ -2,6 +2,7 @@
 layout: post
 title: "Brooklyn Beginnings: #NewChallenge Day 1"
 date: 2014-12-26 23:30:00
+excerpt: "All-nighter, early morning blog-building, hurried packing, 7 hour car ride, 1 hour border wait, epic playlist in car, subway adventures, Subway (the food) adventures, walk across the Brooklyn Bridge. Today's recap of The New Challenge.'"
 ---
 
 _Part of the [New Challenge][nc]_

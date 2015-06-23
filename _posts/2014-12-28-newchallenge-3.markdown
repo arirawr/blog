@@ -2,6 +2,7 @@
 layout: post
 title: "From Isolation to Bustling Crowds: #NewChallenge Day 3"
 date: 2014-12-28 23:30:00
+excerpt: "Coffee, big breakfast, trying to stay away from people, coworking space, $1 pizza, wild crowdedness, ritzy commercialism, the quest for Starbucks, sore muscles, financial district aimless wandering, high-class accommodations, tinder. Today's recap of The New Challenge."
 ---
 
 _Part of the [New Challenge][nc]_

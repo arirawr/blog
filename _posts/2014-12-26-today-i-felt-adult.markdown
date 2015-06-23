@@ -2,6 +2,7 @@
 layout: post
 title: "Today, I Felt Adult"
 date: 2014-12-26 13:30:00
+excerpt: "Today, I felt like I could conquer the world. I was taking risks, but I felt an overwhelming and exhilarating confidence in my pursuits."
 ---
 
 Today, I left the house at 8:30am.

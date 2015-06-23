@@ -2,6 +2,7 @@
 layout: post
 title: "2014 through 2015: #NewChallenge Days 6 and 7"
 date: 2015-01-01 23:30:00
+excerpt: "Sleeping in, brunch, Tumblr tour, walking, best damn pizza in the whole wide world, food coma. Today's recap of The New Challenge."
 ---
 
 _Part of the [New Challenge][nc]_
