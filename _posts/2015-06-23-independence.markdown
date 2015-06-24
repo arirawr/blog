@@ -41,17 +41,17 @@ Mentorship has played a huge role in my alternative education. In every communit
 peers and community leaders. Each mentor brings a new set of experiences that bend and carve my sphere of knowledge. Then, by mentoring others, I'm able to reinforce skills 
 and inspire others. I'm so passionate about mentorship that [I wrote a post about it](http://blog.ariari.io/mentoring/).
 
-Education vs. learning
-Mentorship
-Project based
-Connecting ideas across disciplines
-
 ##Happiness
 
-Before leaving, I wouldn't have classified myself as a happy person.
+Before leaving, I wouldn't have classified myself as a happy person. There were things I enjoyed, and things I despised, but I couldn't draw a complete picture of "me".
 
-Passion
-New experiences
-Belonging
-Connection
+I think part of becoming an adult means understanding yourself as a whole: what ticks you off, what keeps you up all night, what challenges you, what connects with you 
+emotionally... Learning who this "you" is and learning to love them lets you be happy.
+
+Taking it a step further, after understanding and becoming one with the ever-changing "you", you can find your fit in the landscape of nodes, networks, niches, and nuances.
+Drawing foundational connections between your "you" and the rest of the world can fuel your ongoing sense of purpose, belonging, and happiness.
+
+Being independent allowed me to explore interests without bias or restriction. I threw myself into the things I was passionate about and formed a strong sense of self 
+with direction and purpose. My self is always evolving and growing, but my understanding of it makes it a source of happiness. The connections I've made as a result of this 
+understanding have opened doors to even more new and exciting passions.
 
