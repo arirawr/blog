@@ -9,11 +9,12 @@ excerpt: "Today marks exactly 2 years of independent living. Jumping into the ab
 Two years ago today, a 17-year-old me packed up the most important fraction of my belongings into two bags and left alone on a train to Montreal. Three days prior, I'd been wearing a 
 red gown and walking across the stage at my graduation. 17 hours later, I'd be dropped alone in the centre of one of the largest cities in the country.
 
-Blah blah
+Being on your own gives you a fresh slate, free of influence and free of bias, but also free of guidance. My experiences over the last two years have molded who I am as 
+a person, and the lessons I've learned will continue to influence me as I grow as independent adult.
 
 ##Money
 
-Being financially independent at 17 is fucking hard. Finding a job without work experience or connections, juggling two jobs and school, balancing debt and credit, and 
+Being financially independent at 17 is f**king hard. Finding a job without work experience or connections, juggling two jobs and school, balancing debt and credit, and 
 living off less than any person should have to is hard. I was better off than many, but I felt disadvantaged next to my peers. It was something I'd have to deal with in 
 order to survive independently.
 
@@ -36,7 +37,9 @@ memorization and testing. That all ground to a halt when I was thrown into the w
 keep myself afloat, I had to learn and grow at my own pace and on my own schedule. Throughout the last two years, I've done huge amounts of learning through projects, 
 jobs, competitions, and mentorship. I learned that "education", in the typical sense of the word, does not encompass the broad spectrum of learning.
 
-
+Mentorship has played a huge role in my alternative education. In every community I'm a part of, I've found my best source of knowledge, support, and motivation to be my 
+peers and community leaders. Each mentor brings a new set of experiences that bend and carve my sphere of knowledge. Then, by mentoring others, I'm able to reinforce skills 
+and inspire others. I'm so passionate about mentorship that [I wrote a post about it](http://blog.ariari.io/mentoring/).
 
 Education vs. learning
 Mentorship
