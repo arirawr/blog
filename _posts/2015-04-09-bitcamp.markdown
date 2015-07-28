@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ari@Bitcamp 2015 LIVEBLOG
-permalink: /bitcamp/
+permalink: /bitcamp/index.html
 excerpt: "Following the antics of hackers throughout Bitcamp 2015 at the University of Maryland"
 ---
 
