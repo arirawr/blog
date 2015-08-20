@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ari@MHacks 2015 LIVEBLOG
-permalink: /mhacks/index.html
+permalink: /mhacks/
 excerpt: "Following the antics of hackers throughout MHacks 2015 at the University of Michigan"
 ---
 
