@@ -2,7 +2,7 @@
 layout: post
 title: "#MentorCulture: Mentoring Beyond Hackathons"
 date: 2015-05-03 14:30:00
-permalink: /mentoring/index.html
+permalink: /mentoring/
 excerpt: "Mentorship is changing. Mentorship in the age of the hackathon is less formal. It's subconscious. It's perpetual."
 ---
 
