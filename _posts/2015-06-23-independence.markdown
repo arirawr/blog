@@ -2,7 +2,7 @@
 layout: post
 title: "What Independence Teaches You About Money, Education, and Happiness"
 date: 2015-06-23 16:30:00
-permalink: /independence/index.html
+permalink: /independence/
 excerpt: "Today marks exactly 2 years of independent living. Jumping into the abyss of adulthood necessitates learning hard truths - fast."
 ---
 
