@@ -2,14 +2,14 @@
 title: Ari Blogs
 email: hello@ariari.io
 description: > # this means to ignore newlines until "baseurl:"
-  Ari writes about the things that get her hyped. 
+  Ari writes about the things that get her hyped.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.ariari.io" # the base hostname & protocol for your site
 twitter_username: imariari
 github_username:  arirawr
 
-# THEME-SPECIFIC CONFIGURATION
-theme:
+# themee-SPECIFIC CONFIGURATION
+themee:
   title: Ari Blogs
   avatar: avatar.png
   # Header and footer text
@@ -46,7 +46,7 @@ theme:
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Open+Sans:300italic,400italic,700italic,400,800,300,700"
-  
+
   # Post navigation
   post_navigation: true
 
