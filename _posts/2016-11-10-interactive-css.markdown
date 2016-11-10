@@ -3,7 +3,7 @@ layout: post
 title: "Understanding CSS Fundamentals With Interactive Playgrounds"
 date: 2016-11-10 08:30:00
 permalink: /interactive-css/
-excerpt: "I really like CSS. Once you learn how to think in a CSS mindset, you can implement any design effeciently and frustration-free. Yes, contrary to popular belief, CSS doesn't have to be trial-and-error. I created a set of interactive playgrounds to visually represent fundamental CSS concepts."
+excerpt: "I really like CSS. Once you learn how to think in a CSS mindset, you can implement any design efficiently and frustration-free. Yes, contrary to popular belief, CSS doesn't have to be trial-and-error. I created a set of interactive playgrounds to visually represent fundamental CSS concepts."
 ---
 
 CSS (cascading stylesheets) is how we style the web. Anything you see on a webpage that isn't black Times New Roman left-aligned on a white background has been styled with CSS. It's so prevalent that everyone from web developers to designers to SEO professionals to bloggers have tried their hand at it.
@@ -12,7 +12,7 @@ But, the majority of people, even those who write CSS regularly (and those who g
 
 On the other hand, **I really like CSS.** I know you're probably making a funny face at your screen right now, and that's okay. If you don't understand CSS, it is totally frustrating and nonsensical. I get it.
 
-The reality? Once you learn how to think in a CSS mindset, you can implement any design effeciently and frustration-free. **CSS doesn't have to be trial-and-error.**
+The reality? Once you learn how to think in a CSS mindset, you can implement any design efficiently and frustration-free. **CSS doesn't have to be trial-and-error.**
 
 After years of listening to CSS-hate, I created a set of interactive playgrounds to visually represent fundamental CSS concepts.
 
@@ -52,7 +52,7 @@ I'm most proud of this interactive snippet, and I think it's the perfect accompa
 
 #### Supplementary material
 
-In the coming weeks, I will be developing documentation, explanations, and challenges to go along with the interactive elements.
+In the coming weeks, I will be developing documentation, explanations, and challenges to go along with the interactive elements. Please contribute if you have ideas for supplementary material!
 
 #### Improvements
 
