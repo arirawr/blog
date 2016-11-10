@@ -22,13 +22,15 @@ Introducing three basic interactive playgrounds:
 
 ### [Interactive Box Model →](https://arirawr.github.io/interactive-box-model)
 
+![Box Model Screenshot](../../img/box-model-screenshot.png)
+
 Every element in CSS (well, every block element - more on that below) is a box. Some boxes have borders, some have space inside them, and some have space around them. Understanding how to manipulate that space is critical if you want to create layouts in HTML and CSS.
 
 If you have ever wondered whether you should adjust the margin or padding to get the desired result (or worse, you think those two properties are interchangeable), you could probably use a refresher on the box model.
 
-![Box Model Screenshot](../../img/box-model-screenshot.png)
-
 ### [Interactive CSS Display →](https://arirawr.github.io/interactive-css-display)
+
+![CSS Display Screenshot](../../img/css-display-screenshot.png)
 
 I'm always shocked when people who write CSS don't understand what implications an element's display property carries.
 
@@ -36,17 +38,15 @@ Elements like `div`, `p`, `h1`, and `form` are `block` elements by default. Elem
 
 This interactive model desperately needs some documentation or explanatory text, as a few of the arrangements are confusing if you don't know what's going on. I'll be adding that soon.
 
-![CSS Display Screenshot](../../img/css-display-screenshot.png)
-
 ### [Interactive Flexbox →](https://arirawr.github.io/interactive-flexbox)
+
+![Flexbox Screenshot](../../img/flexbox-screenshot.png)
 
 Flexbox is a hot topic in the CSS world.
 
 Technically, it's another display property, just like the above, but flex elements have several extra properties that control orientation, spacing, and sizing, giving the property its real power.
 
 I'm most proud of this interactive snippet, and I think it's the perfect accompaniment to [my go-to explainer on Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
-
-![Flexbox Screenshot](../../img/flexbox-screenshot.png)
 
 ## What's next
 
