@@ -2,7 +2,7 @@
 title: Ari Blogs
 email: hello@ariari.io
 description: > # this means to ignore newlines until "baseurl:"
-  Ari writes about the things that get her hyped.
+  Ari writes about the things that get them hyped.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.ariari.io" # the base hostname & protocol for your site
 twitter_username: imariari
@@ -14,7 +14,7 @@ themee:
   avatar: avatar.png
   # Header and footer text
   header_text: >
-     <p>My name is <strong>Ari</strong>. I'm a tech evangelist and consultant. I get really passionate about startups, hackathons, marketing, community, web development, and hedgehogs.</p>
+     <p>My name is <strong>Ari</strong>. I'm a developer advocate. I get really passionate about CSS, hackathons, and hedgehogs.</p>
 
      <p>Check out the links above to find me elsewhere on the web.</p>
   header_text_feature_image:
@@ -24,7 +24,7 @@ themee:
   # Icons
   rss: true
   email_address: "hello@ariari.io" # Full email address, e.g. "sam@example.com"
-  facebook: "avaniderstine"
+  facebook: "itsariari"
   github: "arirawr"
   instagram: "itsariari"
   linkedin: "http://linkedin.com/in/ariari"
@@ -56,4 +56,4 @@ paginate_path: "/:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
