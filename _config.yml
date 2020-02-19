@@ -1,11 +1,11 @@
 # Site settings
 title: Ari Blogs
-email: hello@ariari.io
+email: blog@ariari.io
 description: > # this means to ignore newlines until "baseurl:"
   Ari writes about the things that get them hyped.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.ariari.io" # the base hostname & protocol for your site
-twitter_username: imariari
+url: "https://blog.ariari.io" # the base hostname & protocol for your site
+twitter_username: AriVanider
 github_username:  arirawr
 
 # themee-SPECIFIC CONFIGURATION
@@ -19,16 +19,16 @@ themee:
      <p>Check out the links above to find me elsewhere on the web.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://github.com/arirawr/blog.ariari.io">this Github repo</a>
+   Powered by <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/arirawr/blog.ariari.io">this Github repo</a>
 
   # Icons
   rss: true
-  email_address: "hello@ariari.io" # Full email address, e.g. "sam@example.com"
+  email_address: "blog@ariari.io" # Full email address, e.g. "sam@example.com"
   facebook: "itsariari"
   github: "arirawr"
-  instagram: "itsariari"
+  instagram: "AriVanider"
   linkedin: "http://linkedin.com/in/ariari"
-  twitter: "imariari"
+  twitter: "AriVanider"
 
   # Scripts
   google_analytics: "UA-64453343-1" # Tracking ID, e.g. "UA-000000-01"
