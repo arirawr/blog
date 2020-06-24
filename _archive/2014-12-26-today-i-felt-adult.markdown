@@ -19,5 +19,5 @@ Tomorrow, the world had better watch out. I just might feel adult again.
 
 _Day 1 of [The New Challenge][nc]. Follow the challenge on [Twitter][tw]_
 
-[nc]: http://blog.ariari.io/2014/12/26/the-new-challenge.html
-[tw]: http://twitter.com/arielle_van
+[nc]: /2014/12/26/the-new-challenge.html
+[tw]: http://twitter.com/arivanider

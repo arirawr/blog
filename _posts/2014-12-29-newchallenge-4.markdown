@@ -7,16 +7,18 @@ excerpt: "AlleyNYC, almond milk and hipster coffee, MLH, thai, the Met, selfies 
 
 _Part of the [New Challenge][nc]_
 
-######_Today:_ AlleyNYC, almond milk and hipster coffee, MLH, thai, the Met, selfies and imitations, black coffee, arepas, coffee rum, Saskatchewan, 1am delivery pizza
+###### _Today:_ AlleyNYC, almond milk and hipster coffee, MLH, thai, the Met, selfies and imitations, black coffee, arepas, coffee rum, Saskatchewan, 1am delivery pizza
 
-##Person
+## Person
+
 Oh man, I met a lot of people today.
 
 First up was the Major League Hacking team, some of whom I had met before. Always a chill time, and they have a sweet coworking space.
 
 After that, I went on an adventure with two hackathon hackers: Ifeanyi and Samantha. We went to the Metropolitan museum and spoke broken English; check Facebook for hilarious Met photos to come later. I love that HH lets me meet up with people from all edges of the globe.
 
-##Food/Drink
+## Food/Drink
+
 Lunch in midtown is always an adventure, but it's even better with MLH! I got to try some Thai food; I had Pad Kana (broccoli, kale, and tofu in a ginger sauce over rice) and Papaya salad. Both were delicious, even if my mouth was burning a little from the spice.
 
 Later, I tried arepas (mine had cheese, plantain, and avocado). Also delicious.
@@ -32,10 +34,12 @@ Courtesy of the lovely Daniel, some pump-up office music:
 
 <br/>
 
-##Reading
+## Reading
+
 While at Starbucks, I got through a good amount of a pretty awesome [Ruby on Rails tutorial](https://www.railstutorial.org/book) as I try to brush up on my Ruby skills.
 
-##Picture
+## Picture
+
 We went to the Met. It was puuurrrdyyy.
 
 <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
@@ -44,16 +48,18 @@ We went to the Met. It was puuurrrdyyy.
 <br/>
 
 
-##Writing
+## Writing
+
 Today is an exciting day for writing - I launched a [new Medium collection][waywo]! WAYWO (What Are You Working On?) is a common question and topic of discussion in the hacker community, and a Hackathon Hackers Facebook group dedicated to WAYWO has over 3.5K members. My new blog collection - [WAYWO This Week][waywo] - will summarize and review the most popular projects from the group each week. I'm really excited to share the great ideas of the hacker community. The [first post][writing] was published today. [Check out the collection now!][waywo]
 
-##Code
+## Code
+
 I'm working on rails tutorials, so my code sadly isn't available yet! Soon!
 
-######_Tomorrow:_ Undecided. Typical Ari Tuesday.
+###### _Tomorrow:_ Undecided. Typical Ari Tuesday.
 
-[nc]: http://blog.ariari.io/2014/12/26/the-new-challenge.html
-[tw]: http://twitter.com/arielle_van
+[nc]: /2014/12/26/the-new-challenge.html
+[tw]: http://twitter.com/arivanider
 [gh]: http://github.com/arirawr
 [song]: http://open.spotify.com/track/6vktfmcFKDMSy6twSqB4fL
 [waywo]: https://medium.com/waywo-this-week

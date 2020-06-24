@@ -55,6 +55,6 @@ Not too much coding, but still working on freelance. I also did a couple designs
 
 ######_Tomorrow:_ good food?
 
-[nc]: http://blog.ariari.io/2014/12/26/the-new-challenge.html
-[tw]: http://twitter.com/arielle_van
+[nc]: /2014/12/26/the-new-challenge.html
+[tw]: http://twitter.com/arivanider
 [gh]: http://github.com/arirawr
