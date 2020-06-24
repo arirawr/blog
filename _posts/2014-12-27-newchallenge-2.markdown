@@ -83,7 +83,7 @@ Today, I set up the drafts functionality on Jekyll, which allowed me to test thi
 ###### _Tomorrow:_ I have no idea. Maybe brunch?
 
 [writing]: /
-[github]: http://github.com/arirawr/blog.ariari.io
+[github]: http://github.com/arirawr/blog
 [nc]: /2014/12/26/the-new-challenge.html
 [song]: http://open.spotify.com/track/2RXY1pNGq9CVtStTLgliSa
 [playlist]: http://open.spotify.com/user/spotify/playlist/2R6xBIkSYaiyf4XjwpvUb5

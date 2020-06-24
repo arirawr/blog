@@ -48,6 +48,6 @@ Today, I set up this blog (using Jekyll) and implemented Google Analytics, AddTh
 ###### _Tomorrow:_ Manhattan, jazz, meetup, Hackathon Hackers
 
 [spotify]: http://open.spotify.com/user/spotify_germany/playlist/4HdOsN3i6umE8rN1y75NBi
-[github]: http://github.com/arirawr/blog.ariari.io
+[github]: http://github.com/arirawr/blog
 [nc]: /2014/12/26/the-new-challenge.html
 [song]: http://open.spotify.com/track/30J50x380IFf1P1H0DOtW4

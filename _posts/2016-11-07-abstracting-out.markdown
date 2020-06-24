@@ -29,4 +29,4 @@ Usually I will make a setup like this from scratch when teaching someone about h
 
 I'm pushing aside perfectionism and releasing these as-is for now. Since I'm dogfooding my own code, they'll be improved upon as I use them and find issues. I'll document known issues/considerations as I go.
 
-In the meantime, keep me accountable. If you see a component that could be abstracted from one of my [publically available projects](http://github.com/arirawr), open an issue on the project or [ping me on Twitter](http://twitter.com/imariari).
+In the meantime, keep me accountable. If you see a component that could be abstracted from one of my [publically available projects](http://github.com/arirawr), open an issue on the project or [ping me on Twitter](http://twitter.com/arivanider).

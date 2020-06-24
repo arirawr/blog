@@ -26,9 +26,9 @@ _Part of the [New Challenge][nc]_
 
 ######_Tomorrow:_
 
-[nc]: http://blog.ariari.io/2014/12/26/the-new-challenge.html
-[tw]: http://twitter.com/arielle_van
+[nc]: /2014/12/26/the-new-challenge.html
+[tw]: http://twitter.com/arivanider
 [gh]: http://github.com/arirawr
 [song]:
 [playlist]:
-[writing]: 
+[writing]:

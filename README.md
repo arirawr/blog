@@ -1,4 +1,4 @@
-blog.ariari.io
+blog
 ==============
 
 Jekyll blogging for personal site.

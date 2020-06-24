@@ -19,11 +19,11 @@ themee:
      <p>Check out the links above to find me elsewhere on the web.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/arirawr/blog.ariari.io">this Github repo</a>
+   Powered by <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/arirawr/blog">this Github repo</a>
 
   # Icons
   rss: true
-  email_address: "blog@ariari.io" # Full email address, e.g. "sam@example.com"
+  email_address: "blog@ariv.se" # Full email address, e.g. "sam@example.com"
   github: "arirawr"
   instagram: "AriVanider"
   linkedin: "http://linkedin.com/in/ariari"

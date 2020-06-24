@@ -67,4 +67,4 @@ Please tweet at me, open issues, and/or submit pull requests to any of the above
 
 *Find me and my current projects on [Github](https://github.com/arirawr).*
 
-*Talk to me on [Twitter](https://twitter.com/imariari).*
+*Talk to me on [Twitter](https://twitter.com/arivanider).*

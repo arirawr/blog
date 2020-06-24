@@ -53,5 +53,5 @@ Again, basic blog stuff, but I added social icons to the top of my blog - learni
 
 [nc]: /2014/12/26/the-new-challenge.html
 [tw]: http://twitter.com/arivanider
-[gh]: http://github.com/arirawr/blog.ariari.io
+[gh]: http://github.com/arirawr/blog
 [song]: http://open.spotify.com/track/3eH95cySq82dDtpwrGCCfQ
